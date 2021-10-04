@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Dave Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Applied Data scientist** \n\n M.S in Mechanical Engineering"
+  bio              : "**Applied Data Scientist** \n\n M.S in Mechanical Engineering"
   location         : "Seoul, South Korea"
   email            : "hhkang94@gmail.com"
   links:
