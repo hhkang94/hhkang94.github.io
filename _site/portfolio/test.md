@@ -1,3 +1,13 @@
+```
+---
+title: "Semiconductor device fabrication"
+excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+sidebar:
+  - title: "Role"
+    text: "Machine Learning engineer"
+---
+```
+
 Fault Detection and Classification (FDC)
 
 ##Task
