@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Dave Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "**Applied Data scientist** specialized in engineering subjects \n M.S in Mechanical Engineering"
+  location         : "Seoul, South Korea"
+  email            : "hhkang94@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
