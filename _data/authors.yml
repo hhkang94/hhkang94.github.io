@@ -1,0 +1,28 @@
+# /_data/authors.yml
+
+Billy Rick:
+  name        : "Dave Kang"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hhkang94@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/davekangms"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-chart-square"
+      url: "https://kaggle.com/hhkang94/account"
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
