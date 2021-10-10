@@ -2,9 +2,7 @@
 permalink: /about/
 layout: single
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2021-05-11T10:23:16-04:00
-toc: true
+excerpt: "About."
 ---
 
 Trying to effectively land AI into engineering applications including but not limited to radiative heat transfer, bio-kinematics, and smart factory.
