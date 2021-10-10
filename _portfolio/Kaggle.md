@@ -12,7 +12,7 @@ Libraries used: Tensorflow, Pytorch, Pandas, Numpy, Ray (for multiprocessing)
 
 My Kaggle profile: [here](https://www.kaggle.com/hhkang94/account)
 
-# **Jane Street market prediction**
+# **Jane Street Market Prediction**
 
 *Duration: 2020.11.24 ~ 2021.08.24*
 
@@ -33,7 +33,7 @@ My Kaggle profile: [here](https://www.kaggle.com/hhkang94/account)
 
 **Task**
 
-Build quantitative trading model to maximize returns using market data from a major global stock exchange. Next, Test the predictiveness of built models  against future market returns.
+Build quantitative trading model to maximize returns using market data from a major global stock exchange. Next, test the predictiveness of built models  against future market returns.
 
 {% include figure image_path="/assets/images/man-677770_1920.jpg" alt="this is a placeholder image" %}
 
