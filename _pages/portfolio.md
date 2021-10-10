@@ -6,4 +6,4 @@ collection: portfolio
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_portfolio`.
+The collection of data science projects done so far.
