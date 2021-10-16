@@ -1,35 +1,21 @@
 ---
-title: "Golf practice device"
-excerpt: "Professional project"
+title: "Golf swing analysis"
+excerpt: "Professional project, 2019.06 - 2019.12"
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  image: /assets/images/golf-g134bd06c1_1920.jpg
+  teaser: assets/images/golf-g134bd06c1_1920.jpg
 sidebar:
+  - title: "Company"
+    text: "CTRL Golf"
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    text: "Machine Learning Intern, Data Scientist"
+  - title: "Duration"
+    text: "2019.06.01 ~ 2019.12.05"
 ---
-
-*Company hompage : https://ctrl.golf/*
-
-*Duration: 2019.06.01 ~ 2019.12.05*
 
 *Programming language : Python*
 
-*Libraries used: Pandas, Numpy, Pandas, Tensorflow*
+*Libraries used: Pandas, Numpy, Pandas, Scikit-learn, Tensorflow, etc*
 
 *Database: Firebase (NoSQL)*
 
@@ -37,24 +23,24 @@ gallery:
 
 **Task**
 
-Build swing analyzer based on IMU sensor data (time series) to provide individualized feedback instruction on golf swings taken by an user. 
+Build golf swing analyzer based on IMU sensor data (time series) to provide individualized feedback instruction to users. 
 
 
 
-**Difficulties**
+**Challenges**
 
 - Noises in sensor data
 - Golf swing analysis (domain knowledge) and interpretation (XAI)
 - Data problems
-- Individualization
-- Limited resource of mobile device
+- Personalization
+- Limited computing resource of mobile device
 
 
 
-**Results**
+**Accomplishments**
 
 - Transformed IMU raw data to 3D trajectory
 - Visualized 3D swing trajectory
 - Developed swing performance index (tempo, club angle, club face, etc)
 - Prototyped classification model to predict a direction of ball flight
-- Collected data and tested new version at golf fields
+- Collected IMU data and tested new version at golf fields
