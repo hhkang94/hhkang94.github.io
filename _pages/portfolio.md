@@ -6,4 +6,4 @@ collection: portfolio
 entries_layout: grid
 ---
 
-The collection of data science projects done so far.
+The collection of data science projects.

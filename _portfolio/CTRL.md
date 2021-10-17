@@ -19,11 +19,17 @@ sidebar:
 
 *Database: Firebase (NoSQL)*
 
+*homepage URL : [https://ctrl.golf/](https://ctrl.golf/)*
+
 
 
 **Task**
 
 Build golf swing analyzer based on IMU sensor data (time series) to provide individualized feedback instruction to users. 
+
+
+
+{% include figure image_path="/assets/images/ctrl1.jpg" alt="this is a placeholder image" caption="from CTRL Golf" %}
 
 
 
@@ -34,6 +40,10 @@ Build golf swing analyzer based on IMU sensor data (time series) to provide indi
 - Data problems
 - Personalization
 - Limited computing resource of mobile device
+
+
+
+{% include figure image_path="/assets/images/ctrl2.jpg" alt="this is a placeholder image" caption="from CTRL Golf" %}
 
 
 
