@@ -29,7 +29,7 @@ Build golf swing analyzer based on IMU sensor data (time series) to provide indi
 
 
 
-{% include figure image_path="/assets/images/ctrl1.jpg" alt="this is a placeholder image" caption="from CTRL Golf" %}
+{% include figure image_path="/assets/images/ctrl1.jpg" alt="this is a placeholder image" caption="<center>from CTRL Golf</center>" %}
 
 
 
@@ -43,7 +43,7 @@ Build golf swing analyzer based on IMU sensor data (time series) to provide indi
 
 
 
-{% include figure image_path="/assets/images/ctrl2.jpg" alt="this is a placeholder image" caption="from CTRL Golf" %}
+{% include figure image_path="/assets/images/ctrl2.jpg" alt="this is a placeholder image" caption="<center>from CTRL Golf</center>" %}
 
 
 
