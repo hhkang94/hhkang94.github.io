@@ -1,6 +1,6 @@
 ---
 title: "Golf swing analysis"
-excerpt: "Professional project, 2019.06 - 2019.12"
+excerpt: "Professional project  2019.06 - 2019.12"
 header:
   image: /assets/images/golf-g134bd06c1_1920.jpg
   teaser: assets/images/golf-g134bd06c1_1920.jpg
@@ -19,13 +19,15 @@ sidebar:
 
 *Database: Firebase (NoSQL)*
 
+*Tags: time series, classification, machine learning, deep learning, XAI*
+
 *homepage URL : [https://ctrl.golf/](https://ctrl.golf/)*
 
 
 
 **Task**
 
-Build golf swing analyzer based on IMU sensor data (time series) to provide individualized feedback instruction to users. 
+Build golf swing analyzer based on IMU sensor data (time series) to provide personalized feedback instruction to users. 
 
 
 

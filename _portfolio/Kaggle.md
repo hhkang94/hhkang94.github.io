@@ -1,6 +1,6 @@
 ---
 title: "Kaggle competitions"
-excerpt: "Personal project, 2020.01.03 - current"
+excerpt: "Personal project  2020.01.03 - current"
 header:
   image: /assets/images/pexels-anna-nekrashevich-6801648.jpg
   teaser: assets/images/pexels-anna-nekrashevich-6801648.jpg
