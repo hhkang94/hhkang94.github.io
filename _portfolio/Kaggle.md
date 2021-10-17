@@ -29,13 +29,9 @@ My Kaggle profile: [here](https://www.kaggle.com/hhkang94/account)
 - Skewed data distribution
 - Selection of better prediction model
 
-{% include figure image_path="/assets/images/paper-3309829_1920.jpg" alt="this is a placeholder image" %}
-
 **Task**
 
 Build quantitative trading model to maximize returns using market data from a major global stock exchange. Next, test the predictiveness of built models  against future market returns.
-
-{% include figure image_path="/assets/images/man-677770_1920.jpg" alt="this is a placeholder image" %}
 
 **Approach**
 
@@ -65,13 +61,9 @@ Ranked 31st/4245 (top 1%) - silver medal
 - Effects of signal interference and surroundings
 - Sensor fusion
 
-{% include figure image_path="/assets/images/paper-3309829_1920.jpg" alt="this is a placeholder image" %}
-
 **Task**
 
 Train a prediction model to compute location down to decimeter or even centimeter resolution based on ground truth, raw GPS, and IMU datasets. Next, test your results.
-
-{% include figure image_path="/assets/images/man-677770_1920.jpg" alt="this is a placeholder image" %}
 
 **Approach**
 
