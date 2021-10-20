@@ -6,7 +6,7 @@ header:
   teaser: assets/images/pexels-anna-nekrashevich-6801648.jpg
 ---
 
-I simply started Kaggle competitions to imporve my data analysis skills, but now being Kaggle Master in competition is my goal. I would like to introduce to you about Kaggle competitions I have completed so far.
+I simply started Kaggle competitions to improve my data analysis skills, but now being Kaggle Master in competition is my goal. I would like to introduce to you about Kaggle competitions I have completed so far.
 
 Libraries used: Tensorflow, Pytorch, Pandas, Numpy, Ray (for multiprocessing)
 
