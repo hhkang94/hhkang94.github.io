@@ -31,7 +31,7 @@ Build golf swing analyzer based on IMU sensor data (time series) to provide pers
 
 
 
-{% include figure image_path="/assets/images/ctrl1.jpg" alt="this is a placeholder image" caption="<center>from CTRL Golf</center>" %}
+{% include figure image_path="/assets/images/ctrl1.jpg" alt="this is a placeholder image" caption="from CTRL Golf" %}
 
 
 
@@ -45,13 +45,13 @@ Build golf swing analyzer based on IMU sensor data (time series) to provide pers
 
 
 
-{% include figure image_path="/assets/images/ctrl2.jpg" alt="this is a placeholder image" caption="<center>from CTRL Golf</center>" %}
+{% include figure image_path="/assets/images/ctrl2.jpg" alt="this is a placeholder image" caption="from CTRL Golf" %}
 
 
 
 **Accomplishments**
 
-- Transformed IMU raw data to 3D trajectory
+- Transformed IMU raw data to 3D swing trajectory using pose estimation algorithm
 - Visualized 3D swing trajectory
 - Developed swing performance index (tempo, club angle, club face, etc)
 - Prototyped classification model to predict a direction of ball flight
