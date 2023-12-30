@@ -9,8 +9,8 @@ sidebar:
   - title: "Duration"
     text: "2020.03 - 2021.12"
 header:
-  image: /assets/images/cpu-gec64693a7_1920.jpg
-  teaser: assets/images/cpu-gec64693a7_1920.jpg
+  image: /assets/images/cmes_piece_picking.jpg
+  teaser: assets/images/cmes_piece_picking.jpg
 ---
 
 *Programming language : Python, R*
