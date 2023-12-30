@@ -1,5 +1,5 @@
 ---
-title: "Semiconductor fab automation & optimization"
+title: "[2]Semiconductor fab automation & optimization"
 excerpt: "Professional project  2020.03 - 2021.12"
 sidebar:
   - title: "Company"
