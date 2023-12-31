@@ -31,11 +31,6 @@ header:
 * Deployed AI models to diverse operation sites
 * Automated deployment process for faster installation
 
-
-{% include figure image_path="/assets/images/checklist-g610e5c575_1920.jpg" alt="this is a placeholder image" %}
-
-
-
 **Difficulties**
 
 - Complexity in system integration of robot, vision, and AI
@@ -43,9 +38,7 @@ header:
 - Countless sales product in fullfillment center 
 - Insufficient training and validation datasets
 
-
-
-**Accomplishment**s
+**Accomplishment**
 
 - Piece picking solution launched after sucessful demo 
 - Piece picking solution presented at KOREA MAT 2023 & Automation World 2023 (trade shows)

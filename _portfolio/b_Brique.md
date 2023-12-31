@@ -42,7 +42,7 @@ header:
 
 
 
-**Accomplishment**s
+**Accomplishment**
 
 - Published a research paper and present work in conference
 - Patent a new algorithm

@@ -15,9 +15,10 @@ sidebar:
 
 *Programming language : MATLAB*
 
-*Tags: simulation, heat transfer, machine learning, deep learning *
+*Tags: simulation, heat transfer, machine learning, deep learning, etc*
 
 **Objective**
+
 I conducted research during my master's program to investigate the characteristics of radiative heat transfer in porous materials with surface or internal voids. A machine learning model was essential for predicting the radiative properties of porous media, varying with different porous structure, material composition, and types of radiative heat. To accomplish this task, I applied thermodynamic domain knowledge, machine learning optimization techniques, and simulation tools. The research findings can be applied in various engineering fields, such as controlling the production of complex structures in metal 3D printing processes by sintering metal powders with lasers or designing radiation shielding materials.
 
 - Performed Monte Carlo Ray Tracing simulation to approximate radiative properties of porous media

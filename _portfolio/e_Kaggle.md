@@ -44,6 +44,68 @@ Build quantitative trading model to maximize returns using market data from a ma
 
 Ranked 31st/4245 (top 1%) - silver medal
 
+# Google Universal Image Embedding
+
+*Duration: 2022.07.12 ~ 2022.10.11*
+
+*Topic: Create image representations that work across many visual domains.*
+
+*Tags: image, Multiclass Classification*
+
+{% include figure image_path="/assets/images/Embedding.png" alt="this is a placeholder image" %}
+
+**Difficulties**
+
+- Dataset is not provided by host
+- Large-scale model training and inference
+- Class imbalances in distribution of evaluation dataset
+- Insufficient GPU resources
+
+**Task**
+
+In this competition, the developed models are expected to retrieve relevant database images to a given query image (ie, the model should retrieve database images containing the same object as the query). The images in our dataset comprise a variety of object types, such as apparel, artwork, landmarks, furniture, packaged goods, among others.
+
+**Approach**
+
+- Proper dataset collection and processing 
+- CLIP model finetuning
+- Model architecture and loss function customization
+
+**Result**
+
+Ranked 107th/1022 (Top 11%)
+
+# Kaggle - LLM Science Exam
+
+*Duration: 2023.07.12 ~ 2023.10.11*
+
+*Topic: Use LLMs to answer difficult science questions. *
+
+*Tags: physics, NLP*
+
+{% include figure image_path="/assets/images/LLM.png" alt="this is a placeholder image" %}
+
+**Difficulties**
+
+- Dataset is not provided by host
+- Hard science questions 
+- Limited resources to implement large scale AI model
+
+**Task**
+
+This competition challenges participants to answer difficult science-based questions written by a Large Language Model.
+
+**Approach**
+
+- Science-topic text dataset collection via Wikipedia
+- Data pre-processing for better quality 
+- Implementation of open-source large language model
+- Improved context generation through Retrieval Augmented Generation (RAG)
+
+**Result**
+
+Ranked 354th/2664 (Top 14%)
+
 # Google Smartphone Decimeter Challenge
 
 *Duration: 2021.05.13 ~ 2021.08.05*
