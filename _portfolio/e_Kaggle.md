@@ -50,7 +50,7 @@ Ranked 31st/4245 (top 1%) - silver medal
 
 *Topic: Create image representations that work across many visual domains.*
 
-*Tags: image, Multiclass Classification*
+*Tags: image, multiclass classification*
 
 {% include figure image_path="/assets/images/Embedding.png" alt="this is a placeholder image" %}
 

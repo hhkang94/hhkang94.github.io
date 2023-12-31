@@ -19,7 +19,7 @@ header:
 
 *Libraries used: Pandas, Numpy, Pandas, Matplotlib, Pytorch, Tensorflow, Ray, Joblib, Numba, etc*
 
-*Tags: time series, image, regression, classification, machine learning, deep learning, XAI*
+*Tags: time series, regression, image, classification, object detection, machine learning, deep learning, XAI*
 
 
 

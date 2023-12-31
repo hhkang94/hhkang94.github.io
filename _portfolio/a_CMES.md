@@ -17,7 +17,7 @@ header:
 
 *System OS : Windows, Linux*
 
-*Libraries used: Pytorch, Tensorflow, OpenCV, Networking, Pandas, Numpy, Pandas, Matplotlib, , etc*
+*Libraries used: Pytorch, Tensorflow, OpenCV, Networking, Pandas, Numpy, Pandas, Matplotlib, etc*
 
 *Tags: vision, image, 2D & 3D, deep learning, instance segmentation, transformer, robotics, system integration, TCP/IP, GRPC, etc*
 
