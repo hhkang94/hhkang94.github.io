@@ -10,7 +10,7 @@ sidebar:
   - title: "Role"
     text: "Graduate Student Researcher"
   - title: "Duration"
-    text: "2019.01.08 ~ 2019.06.08"
+    text: "2017.01.08 ~ 2019.06.08"
 ---
 
 *Programming language : MATLAB*
